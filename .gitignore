@@ -9,7 +9,6 @@ env/
 
 tmp_test_docx/
 tmp_test_layout/
-screenshots/
 
 get-pip.py
 python-installer*.exe
